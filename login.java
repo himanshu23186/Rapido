@@ -5,6 +5,8 @@
         String enteredUser = "admin";
         String enteredPass = "1234";
 
+        System.out.println("enter username and pass word to login");
+
         boolean userMatch = user.equals(enteredUser);
         boolean passMatch = pass.equals(enteredPass);
 
