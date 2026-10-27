@@ -1,9 +1,9 @@
 ﻿public class login {
     public static void main(String[] args) {
         String user = "admin";
-        String pass = "1234";
+        String pass = "1234567";
         String enteredUser = "admin";
-        String enteredPass = "1234";
+        String enteredPass = "1234567";
 
         boolean userMatch = user.equals(enteredUser);
         boolean passMatch = pass.equals(enteredPass);
