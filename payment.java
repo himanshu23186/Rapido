@@ -1,7 +1,7 @@
 public class payment {
     public static void main(String[] args) {
         int amount = 5000;
-        int discount = 500;
+        int discount = 50;
         int paid = 4500;
         int finalAmount = amount - discount;
 
