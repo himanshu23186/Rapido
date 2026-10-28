@@ -1,7 +1,7 @@
 public class dashboard {
     public static void main(String[] args) {
         int sales = 2500;
-        int target = 3000;
+        int target = 40000;
         int employees = 12;
         String status = (sales >= target) ? "Goal achieved" : "Below target";
 
